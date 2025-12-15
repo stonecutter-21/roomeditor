@@ -1,0 +1,17 @@
+albumentations==1.4.23
+diffusers==0.32.0
+einops==0.8.1
+gradio==5.31.0
+numpy==2.2.6
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+packaging==25.0
+Pillow==11.2.1
+pycocotools==2.0.8
+safetensors==0.5.3
+torch==2.5.1
+torchmetrics==1.6.0
+torchvision==0.20.1
+tqdm==4.67.1
+transformers==4.47.0
+xformers==0.0.28.post3
